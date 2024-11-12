@@ -1,0 +1,7 @@
+C:\Users\Udaykumar\Source\repos\FitnessTracker\FitnessTracker\obj\Release\net8.0\PubTmp\Out\FitnessTracker.exe
+C:\Users\Udaykumar\Source\repos\FitnessTracker\FitnessTracker\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Udaykumar\Source\repos\FitnessTracker\FitnessTracker\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Udaykumar\Source\repos\FitnessTracker\FitnessTracker\obj\Release\net8.0\PubTmp\Out\FitnessTracker.dll
+C:\Users\Udaykumar\Source\repos\FitnessTracker\FitnessTracker\obj\Release\net8.0\PubTmp\Out\FitnessTracker.deps.json
+C:\Users\Udaykumar\Source\repos\FitnessTracker\FitnessTracker\obj\Release\net8.0\PubTmp\Out\FitnessTracker.runtimeconfig.json
+C:\Users\Udaykumar\Source\repos\FitnessTracker\FitnessTracker\obj\Release\net8.0\PubTmp\Out\FitnessTracker.pdb
